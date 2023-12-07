@@ -23,3 +23,12 @@ Le microservice Voiture gère les informations relatives aux voitures.
 - ***Spring Boot** : Utilisé pour le développement du microservice.
 - ***MySQL**: Base de données relationnelle pour stocker les informations sur les voitures.
 - ***Hibernate**: Utilisé pour la couche de persistance des données.
+### Fonctionnalités
+**Microservice Client**
+
+Création, mise à jour et suppression de clients.
+Récupération des informations d'un client spécifique.
+**Microservice Voiture**
+
+Création, mise à jour et suppression de voitures.
+Récupération des voitures d'un client spécifique.
