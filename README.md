@@ -27,9 +27,11 @@ Le microservice Voiture gère les informations relatives aux voitures.
 **Microservice Client**
 
 Création, mise à jour et suppression de clients.
+
 Récupération des informations d'un client spécifique.
 
 **Microservice Voiture**
 
 Création, mise à jour et suppression de voitures.
+
 Récupération des voitures d'un client spécifique.
