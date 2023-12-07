@@ -20,6 +20,6 @@ Le microservice Client gère les informations relatives aux clients.
 Le microservice Voiture gère les informations relatives aux voitures.
 
 #### Technologies utilisées
--***Spring Boot** : Utilisé pour le développement du microservice.
+- ***Spring Boot** : Utilisé pour le développement du microservice.
 - ***MySQL**: Base de données relationnelle pour stocker les informations sur les voitures.
 - ***Hibernate**: Utilisé pour la couche de persistance des données.
