@@ -35,3 +35,8 @@ Récupération des informations d'un client spécifique.
 Création, mise à jour et suppression de voitures.
 
 Récupération des voitures d'un client spécifique.
+
+### Comment exécuter le projet
+1-Cloner le référentiel depuis GitHub.
+2-Configurer les bases de données dans les fichiers application.yml de chaque microservice.
+3-Exécuter les microservices et la getway en utilisant votre IDE ou la ligne de commande.
